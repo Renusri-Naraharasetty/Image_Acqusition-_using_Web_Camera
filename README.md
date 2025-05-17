@@ -34,7 +34,7 @@ End the program and close the output video window by pressing 'q'.
 ### Register No: 212223240139
 
 ## i) Write the frame as JPG file
-```python
+
 import cv2
 videoCaptureObject = cv2.VideoCapture(0)
 ret, frame = videoCaptureObject.read()
