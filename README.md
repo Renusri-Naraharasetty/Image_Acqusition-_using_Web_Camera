@@ -112,7 +112,8 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 
-![image](https://github.com/user-attachments/assets/619a0c0c-6a6b-444e-9340-6549b34f90da)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/54888a4c-ede3-4320-8ee5-b9141b96174b" />
+
 
 ### iv) Rotate and display the video
 
